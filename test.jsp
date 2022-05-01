@@ -13,7 +13,7 @@ String str2 = "문자또 쓸꺼얌";
 </head>
 
 <body>
-    <h1> test.jsp 페이지입니다231221.</h1>
+    <h1> test.jsp 페이지입니다231222221.</h1>
     <p>
         <%
         out.println(str2+str1+"입니다. 열공합시다^^*");
